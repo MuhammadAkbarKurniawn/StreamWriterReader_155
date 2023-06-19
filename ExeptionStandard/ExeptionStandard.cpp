@@ -10,7 +10,7 @@ int main() {
 	try {
 		array<int, 3> data = { 1,2,3 };
 		//pesan array integer 3 element 
-		cout << data.at(2) << endl;
+		cout << data.at(4) << endl;
 		//memanggil array element ke " "
 	}
 	catch (exception& e) {
