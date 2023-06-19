@@ -11,7 +11,7 @@ int main() {
 	// menunjuk ke sebuah nama file
 	outfile.open("contohfile.txt");
 
-	cout << ">= Menulis File, \ 'q\' untuk Keluar" << endl;
+	cout << ">= Menulis File, \ ketik 'q\' untuk Keluar" << endl;
 
 	// unlimited loop untuk menulis
 	while (true) {
